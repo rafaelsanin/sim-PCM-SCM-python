@@ -22,5 +22,4 @@ distribtion available at
 
 ## Usage
 
-Clone or download the files to your local machine. Start iPython from within
-the `ocv_model/` directory then type `run ocv.py` to run the OCV model.
+Clone or download the files to your local machine. Start iPython and run the `simPCM.py` file.
